@@ -415,16 +415,14 @@ body {
 }
 
 .overlay img{
-	width: 200px;
+	width: 48%;
 	padding: 25px;
 	border-radius: 20px;
   padding: 6px;
   background: linear-gradient(135deg, #ff54a4, #ffa4b1);
 margin: 20px;
 }
-@media (max-width: 600px) {
-  .overlay img {
-    width: 80px;
-  }
+
+
 
 
